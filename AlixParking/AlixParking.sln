@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlixParking.DataAccess", "AlixParking.DataAccess\AlixParking.DataAccess.csproj", "{5387ABEA-7180-44A2-8B14-199AE31CF8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlixParking.BusinessLogic", "AlixParking.BusinessLogic\AlixParking.BusinessLogic.csproj", "{A59225C9-F7C4-49F1-97AF-156048D4C944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlixParking.Entity", "AlixParking.Entity\AlixParking.Entity.csproj", "{341ABFFF-B2CA-4199-BDC3-B78AEC2CD444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlixParking.Core", "AlixParking.Core\AlixParking.Core.csproj", "{12210DFE-58CC-4180-BC6A-338BE4EDC09A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlixParking.UI", "AlixParking.UI\AlixParking.UI.csproj", "{39CA2483-6F11-4923-9F97-7B62C9CFDDAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5387ABEA-7180-44A2-8B14-199AE31CF8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5387ABEA-7180-44A2-8B14-199AE31CF8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5387ABEA-7180-44A2-8B14-199AE31CF8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5387ABEA-7180-44A2-8B14-199AE31CF8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59225C9-F7C4-49F1-97AF-156048D4C944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59225C9-F7C4-49F1-97AF-156048D4C944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59225C9-F7C4-49F1-97AF-156048D4C944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59225C9-F7C4-49F1-97AF-156048D4C944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341ABFFF-B2CA-4199-BDC3-B78AEC2CD444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341ABFFF-B2CA-4199-BDC3-B78AEC2CD444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341ABFFF-B2CA-4199-BDC3-B78AEC2CD444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341ABFFF-B2CA-4199-BDC3-B78AEC2CD444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12210DFE-58CC-4180-BC6A-338BE4EDC09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12210DFE-58CC-4180-BC6A-338BE4EDC09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12210DFE-58CC-4180-BC6A-338BE4EDC09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12210DFE-58CC-4180-BC6A-338BE4EDC09A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CA2483-6F11-4923-9F97-7B62C9CFDDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CA2483-6F11-4923-9F97-7B62C9CFDDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CA2483-6F11-4923-9F97-7B62C9CFDDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CA2483-6F11-4923-9F97-7B62C9CFDDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
