@@ -10,11 +10,14 @@ using System.Windows.Forms;
 
 namespace AlixParking.UI
 {
-    public partial class Form1 : Form
+    public partial class ParkingLot : Form
     {
-        public Form1()
+        public ParkingLot()
         {
             InitializeComponent();
+
+            // UI related code goes here
+            // Only view rendering logic goes here no business logic and no data access
         }
     }
 }
