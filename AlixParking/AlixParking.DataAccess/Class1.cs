@@ -8,5 +8,8 @@ namespace AlixParking.DataAccess
 {
     public class Class1
     {
+
+	public property SqlConnection {get;set;}
+
     }
 }
