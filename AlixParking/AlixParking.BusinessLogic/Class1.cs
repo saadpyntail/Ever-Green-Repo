@@ -8,5 +8,8 @@ namespace AlixParking.BusinessLogic
 {
     public class Class1
     {
+	public property Name {get;set;}
+	
+	public int Age {get;set;}
     }
 }
